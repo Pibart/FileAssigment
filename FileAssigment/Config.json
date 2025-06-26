@@ -1,0 +1,8 @@
+{
+	"AppSettings": {
+		"SrcPath": "I:\\Programowanie\\projekty\\assigments\\file\\FileAssigment\\FileAssigment\\Nowy folder\\source",
+		"DstPath": "I:\\Programowanie\\projekty\\assigments\\file\\FileAssigment\\FileAssigment\\Nowy folder\\destination",
+		"LogPath": "I:\\Programowanie\\projekty\\assigments\\file\\FileAssigment\\FileAssigment\\Nowy folder\\LogFile.txt",
+		"SecInterval": 55
+	}
+}
